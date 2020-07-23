@@ -1,0 +1,25 @@
+<?
+$aMenuLinks = Array(
+	Array(
+		"Facebook", 
+		"/catalog/", 
+		Array(), 
+		Array("icon"=>"icons-facebook"), 
+		"" 
+	),
+	Array(
+		"Instagram", 
+		"/catalog/", 
+		Array(), 
+		Array("icon"=>"icons-instagram"), 
+		"" 
+	),
+	Array(
+		"YouTube", 
+		"/catalog/", 
+		Array(), 
+		Array("icon"=>"icons-youtube"), 
+		"" 
+	)
+);
+?>

@@ -1,0 +1,24 @@
+.button_close {
+    background-color: transparent;
+    outline: none;
+    border: none;
+    padding: 0;
+}
+
+.button_close:hover {
+    outline: none;
+    text-decoration: none;
+    color: #337D5A;
+}
+
+.select-options .selected {
+    color: #fff;
+    background: #337D5A;
+}
+
+.select-options .disabled,
+.select-options .disabled:hover {
+    color: #8A8A8A;;
+    background: #fff;
+    cursor: context-menu;
+}

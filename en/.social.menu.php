@@ -1,0 +1,25 @@
+<?
+$aMenuLinks = Array(
+	Array(
+		"Viber", 
+		"/en/catalog/",
+		Array(), 
+		Array("icon"=>"icons-viber"), 
+		"" 
+	),
+	Array(
+		"Telegram", 
+		"/en/catalog/",
+		Array(), 
+		Array("icon"=>"icons-telegram"), 
+		"" 
+	),
+	Array(
+		"Whats-App", 
+		"/en/catalog/",
+		Array(), 
+		Array("icon"=>"icons-whatsapp"), 
+		"" 
+	)
+);
+?>
